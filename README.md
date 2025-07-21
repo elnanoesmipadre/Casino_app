@@ -5,7 +5,8 @@ Hey! Welcome to my project!
 .              ..........      .           .       .   ..   .  .         .
  .             .        .         .        .       .     .. .   .       .
   ...........  .        .  .........  ...........  .       ..    .......
-(Need to improve my ASCII drawing btw)
+
+(U need to enter in code view to see this)
 
 Project by:
 Rafael Martínez de Carvalho (@elnanoesmipadre)
