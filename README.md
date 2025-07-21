@@ -9,7 +9,7 @@ Hey! Welcome to my project!
 (U need to enter in code view to see this)
 
 Project by:
-Rafael Martínez de Carvalho (@elnanoesmipadre)
+Rafael Martínez de Carvalho (@elnanoesmipadre),
 
 I started this project a few months ago when I learned python in my school, now, I'm learning to code in java and want to scale my project. You're free to change, copy and do whatever you want with the code if it helps to make this game a reality.
 
